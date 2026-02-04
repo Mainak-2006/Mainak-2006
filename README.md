@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>🎓 I’m a B.Tech CSE student who loves building things with code<br><br>🔭 I’m currently working on  <br>Real-world projects like chat apps, finance trackers, and full-stack web/mobile apps<br><br>🤝 I’m looking to collaborate on  <br>Open source • student startups • React/React Native projects • hackathons<br><br>🌱 I’m currently learning  <br>TypeScript • Backend (Node.js/Express) • Databases • System Design • AI/LLMs<br><br>💬 Ask me about  <br>React Native • Full Stack Dev • App architecture • How to start projects from scratch<br><br>
+## 👋 About Me<br><br>🎓 I’m a B.Tech CSE student who loves building things with code<br><br>🔭 I’m currently working on  <br>Real-world projects like chat apps, finance trackers, and full-stack web/mobile apps<br><br>🤝 I’m looking to collaborate on  <br>Open source • student startups • React/React Native projects • hackathons<br><br>🌱 I’m currently learning  <br>TypeScript • Backend (Node.js/Express) • Databases • System Design<br><br>💬 Ask me about  <br>React Native • Full Stack Dev • App architecture • How to start projects from scratch<br><br>
 
 
 ## 🌐 Socials:
